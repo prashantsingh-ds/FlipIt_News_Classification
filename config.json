@@ -1,0 +1,10 @@
+{
+  "classes": [
+    "business",
+    "entertainment",
+    "politics",
+    "sport",
+    "tech"
+  ],
+  "max_len": 400
+}
